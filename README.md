@@ -20,3 +20,4 @@ mvn clean package
 # Run
 java -jar ./target/demoapi-0.0.1-SNAPSHOT.jar
 
+API documentation JSON http://localhost:8080/v2/api-docs/
