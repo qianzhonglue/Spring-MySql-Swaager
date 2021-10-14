@@ -10,7 +10,7 @@ MySql 5.7+
 create database demodb;
 
 # Change Resources
-/src/
+At /src/main/resources/application.properties file, Change 
 
 # Build
 mvn clean package
