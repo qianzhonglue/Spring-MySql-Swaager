@@ -10,7 +10,9 @@ MySql 5.7+
 create database demodb;
 
 # Change Resources
-At /src/main/resources/application.properties file, Change 
+At /src/main/resources/application.properties file, change properties such as username and password.
+spring.datasource.username=root
+spring.datasource.password=password
 
 # Build
 mvn clean package
